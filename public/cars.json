@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "img": "https://audimediacenter-a.akamaihd.net/system/production/media/90567/images/72391bd2d21a80a761f0df1bd5bff197d5804daa/A201895_x500.jpg?1583155437",
+    "name": "Audi",
+    "origin": "Germany",
+    "price": 15000
+  },
+  {
+    "id": 2,
+    "img": "https://mediacloud.carbuyer.co.uk/image/private/s--hZkf71Yq--/v1579631359/carbuyer/2018/10/p90323664_highres.jpg",
+    "name": "BMW",
+    "origin": "Germany",
+    "price": 20000
+  },
+  {
+    "id": 3,
+    "img": "https://www.bugatti.com/fileadmin/_processed_/sei/p54/se-image-4799f9106491ebb58ca3351f6df5c44a.jpg",
+    "name": "Bugatti",
+    "origin": "France",
+    "price": 18000
+  },
+  {
+    "id": 4,
+    "img": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Chevrolet/Chevrolet-Trailblazer/1775/1560511456139/front-left-side-47.jpg",
+    "name": "Chevrolet",
+    "origin": "America",
+    "price": 12000
+  },
+  {
+    "id": 5,
+    "img": "https://www.resultnepalonline.com/wp-content/uploads/2020/09/200918141328-01-ferrari-f8-spider-super-tease.jpg",
+    "name": "Ferrari",
+    "origin": "Italy",
+    "price": 25000 
+  },
+  {
+    "id": 6,
+    "img": "https://electrek.co/wp-content/uploads/sites/3/2021/10/Ford-F-150-Lightning-Platinum.jpg?quality=82&strip=all&w=1600",
+    "name": "Ford",
+    "origin": "America",
+    "price": 15000
+  },
+  {
+    "id": 7,
+    "img": "https://global.honda/content/dam/site/global/newsroom/cq_img/news/2019/11/c191125eng_01.jpg",
+    "name": "Honda",
+    "origin": "Japan",
+    "price": 8000
+  },
+  {
+    "id": 8,
+    "img": "https://static.autox.com/uploads/2021/02/Jaguar-Classic-Ctype-.jpg",
+    "name": "Jaguar",
+    "origin": "England",
+    "price": 22000
+  },
+  {
+    "id": 9,
+    "img": "https://bbts1.azureedge.net/images/p/full/2021/09/dd80d1dd-6ef0-47f9-b5c1-4e039ae4b91f.jpg",
+    "name": "Lamborghini",
+    "origin": "Italy",
+    "price": 32000
+  },
+  {
+    "id": 10,
+    "img": "https://cdn.motor1.com/images/mgl/ZX3JA/s3/ares-design-land-rover-defender.webp",
+    "name": "Land Rover",
+    "origin": "England",
+    "price": 27000
+  },
+  {
+    "id": 11,
+    "img": "https://assets.autobuzz.my/wp-content/uploads/2021/10/28121533/2021-Mercedes-Benz-A-250-AMG-Line-Sedan-CKD-1.jpg",
+    "name": "Mercedes-Benz",
+    "origin": "Germany",
+    "price": 25000
+  },
+  {
+    "id": 12,
+    "img": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/2019-Tesla-Model-3-Sedan-White-by-Matt-Campbell-1001x565_1_0.jpg",
+    "name": "Tesla",
+    "origin": "America",
+    "price": 20000
+  }
+]

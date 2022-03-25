@@ -1,11 +1,15 @@
 .header{
     font-size: 40px;
     font-weight: 700;
-    color:orangered
+    color:orangered;
+    justify-content: center;
+    text-align: center;
 }
 
 .title{
     font-size: 24px;
     margin-top: -20px;
     font-weight: 400;
+    justify-content: center;
+    text-align: center;
 }

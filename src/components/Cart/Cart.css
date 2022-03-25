@@ -1,0 +1,20 @@
+.cart{
+    padding: 30px 20px;
+    
+}
+
+.btn-one{
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.btn-two{
+    background-color: orangered;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}

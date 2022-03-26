@@ -7,7 +7,10 @@ const Cart = (props) => {
     return (
         <div className='cart'>
             <h2>Select Your Car</h2>
-            <p>{cart.name}</p>
+            {
+             cart.map(cart => <p>{cart}</p>)
+             
+             }
             <button className='btn-one'>Choose One</button><br/>
             <button className='btn-two'>Choose Again</button>
         </div>

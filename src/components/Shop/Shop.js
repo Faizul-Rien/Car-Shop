@@ -26,6 +26,11 @@ const Shop = () => {
         const newBox = ['',cart]
     setCart(newBox)
     }
+
+    const chooseAgainBtn =(cart) =>{
+        const clrBox = ['']
+    setCart(clrBox)
+    }
     return (
         <div className='shop-container'>
             <div className="car-container">
@@ -43,6 +48,7 @@ const Shop = () => {
             <Cart cart={cart}
             chooseBtn={chooseBtn}
             randoms={randoms}
+            chooseAgainBtn={chooseAgainBtn}
                 ></Cart>
               
             </div>

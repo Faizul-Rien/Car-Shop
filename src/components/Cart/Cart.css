@@ -18,3 +18,11 @@
     color: white;
     padding: 5px;
 }
+
+.btn-one:hover{
+    background-color: green;
+}
+
+.btn-two:hover{
+    background-color: green;
+}

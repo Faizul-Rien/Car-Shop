@@ -11,9 +11,9 @@ const Cart = (props) => {
              cart.map(cart => <p>{cart}</p>)
             
              }
-             <p>{cart[randoms]}</p>
+             <p>{}</p>
              
-            <button onClick={() => props.chooseBtn(props.cart)} className='btn-one'>Choose One</button><br/>
+            <button onClick={() => props.chooseBtn(props.cart[randoms])} className='btn-one'>Choose One</button><br/>
             <button className='btn-two'>Choose Again</button>
         </div>
     );

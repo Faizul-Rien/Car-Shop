@@ -12,7 +12,7 @@ const {name,img,origin,price} = props.car;
            <div className='p-container'>
            <p>Name: {name}</p>
            <p>Origin: {origin}</p>
-           <p>Price: ${price}</p>
+           <p className='price'>Price: ${price}</p>
            </div>
            <button onClick={() => props.handleAddToCart(props.car.name)} className='btn-cart'>
                 <p className='btn-text'>Add to Cart</p>

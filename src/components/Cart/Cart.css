@@ -4,6 +4,7 @@
 }
 
 .btn-one{
+    font-weight: 700;
     background-color: orangered;
     border: none;
     border-radius: 5px;
@@ -13,6 +14,7 @@
 }
 .btn-two{
     background-color: orangered;
+    font-weight: 700;
     border: none;
     border-radius: 5px;
     color: white;

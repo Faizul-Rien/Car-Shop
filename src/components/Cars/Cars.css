@@ -35,3 +35,8 @@
 .btn-text{
     margin-right: 5px;
 }
+
+.price{
+    font-weight: 700;
+    color:orange;
+}

@@ -20,6 +20,9 @@
 .span{
     color: blue;
 }
+.h2{
+    color: orangered;
+}
 
 @media only screen and (max-width: 600px){
     .footer{

@@ -12,8 +12,22 @@
 }
 .cart-container{
     background-color:lightblue;
-    height: 500px;
+    height: 600px;
     margin-top: 100px;
     margin-right: 20px;
     border-radius: 10px;
+}
+@media only screen and (max-width: 600px){
+    .car-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .shop-container{
+        display: inline;
+    }
+    .cart-container{
+        width: 280px;
+        height: 400px;
+        margin-left: 50px;
+    }
 }
